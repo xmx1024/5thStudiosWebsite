@@ -25,9 +25,14 @@ h1 {
 }
 
 h2 {
+	color: black;
 	font-size: 28px;
 	line-height: 1.5em;
 	margin: .5em 0 0;
+}
+
+h2:hover{
+	color: red;
 }
 
 p {
@@ -48,8 +53,9 @@ a:hover {
 
 header {
 	color: white;
-	/*TODO Change images */
-	background: url('images/Screenshot_1.png') no-repeat;
+	/*Random image hosting from @jdf221 */
+	background: url('http://timg.edudek.org/etc/randImg.php') no-repeat;
+	/*Size: 960x512*/
 	background-size: cover;
 }
 
@@ -107,17 +113,37 @@ header .hero {
 }
 
 header .hero h1 {
-	color: white;
-	margin: 0;
-	padding-top: 2em;
-	font-size: 42px;
-	font-weight: 400;
+ color:#FFFFFF;
+ text-shadow: 0 1px 0 #ccc,
+ 0 2px 0 #c9c9c9,
+ 0 3px 0 #bbb,
+ 0 4px 0 #b9b9b9,
+ 0 5px 0 #aaa,
+ 0 6px 1px rgba(0,0,0,.1),
+ 0 0 5px rgba(0,0,0,.1),
+ 0 1px 3px rgba(0,0,0,.3),
+ 0 3px 5px rgba(0,0,0,.2),
+ 0 5px 10px rgba(0,0,0,.25),
+ 0 10px 10px rgba(0,0,0,.2),
+ 0 20px 20px rgba(0,0,0,.15);
 }
 
 header .hero h2 {
-	color: white;
 	font-size: 20px;
 	font-weight: 600;
+	color:#FFFFFF;
+	text-shadow: 0 1px 0 #ccc,
+	0 2px 0 #c9c9c9,
+	0 3px 0 #bbb,
+	0 4px 0 #b9b9b9,
+	0 5px 0 #aaa,
+	0 6px 1px rgba(0,0,0,.1),
+	0 0 5px rgba(0,0,0,.1),
+	0 1px 3px rgba(0,0,0,.3),
+	0 3px 5px rgba(0,0,0,.2),
+	0 5px 10px rgba(0,0,0,.25),
+	0 10px 10px rgba(0,0,0,.2),
+	0 20px 20px rgba(0,0,0,.15);
 }
 
 header .hero .btn.btn-full {
@@ -220,13 +246,34 @@ img .counter {size = 20%;
 	display: block;
 	padding: 8px 15px;
 	text-decoration: none;
-	font-weight: bold;
+	font-weight: bold;*/
 	color: #069;
 	border-right: 1px solid #ccc;
 }
 
+#nav li img {
+	border-right: 1px solid #ccc;
+}
+
 #nav li a:hover {
-	color: #c00;
+	color: #099;
 	background-color: #fff;
 }
 /* End navigation bar styling. */
+
+#3d h1{
+ font:normal 32pt Arial;
+ color:#FFFFFF;
+ text-shadow: 0 1px 0 #ccc,
+ 0 2px 0 #c9c9c9,
+ 0 3px 0 #bbb,
+ 0 4px 0 #b9b9b9,
+ 0 5px 0 #aaa,
+ 0 6px 1px rgba(0,0,0,.1),
+ 0 0 5px rgba(0,0,0,.1),
+ 0 1px 3px rgba(0,0,0,.3),
+ 0 3px 5px rgba(0,0,0,.2),
+ 0 5px 10px rgba(0,0,0,.25),
+ 0 10px 10px rgba(0,0,0,.2),
+ 0 20px 20px rgba(0,0,0,.15);
+}
