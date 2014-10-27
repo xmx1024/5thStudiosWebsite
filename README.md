@@ -3,4 +3,4 @@
 
 The Website of 5th Studios
 
-This is not the current site, but a better version in the making. It looks pretty modern compared to the 80s version.
+This is the current http://5th.xyz site, it looks pretty modern compared to the old 80s version.
