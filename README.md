@@ -4,3 +4,5 @@
 The Website of 5th Studios
 
 This is the current http://5th.xyz site, it looks pretty modern compared to the old 80s version.
+
+Uses ScrollJS
