@@ -236,15 +236,12 @@ img .counter {size = 20%;
 	border-right: 1px solid #ccc;
 }
 
-#nav li img {
-	border-right: 1px solid #ccc;
-}
-
 #nav li a:hover {
 	color: #099;
 	background-color: #fff;
 }
 /* End navigation bar styling. */
+
 #3d h1 {
 	font: normal 32pt Arial;
 	color: #FFFFFF;
