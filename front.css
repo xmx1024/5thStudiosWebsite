@@ -236,6 +236,10 @@ img .counter {size = 20%;
 	border-right: 1px solid #ccc;
 }
 
+#nav li img {
+        border-right: 1px solid #ccc
+}
+
 #nav li a:hover {
 	color: #099;
 	background-color: #fff;
